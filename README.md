@@ -4,10 +4,12 @@
 
 
 Overview:
+
 Led A Team Project To Design And Simulate A Full Campus Network For The Faculty Of Engineering, Using Cisco Packet Tracer. The Goal Was To Build A Scalable, Secure, And Dynamic Network Connecting The Main Faculty Building With The Workshop Building — Ensuring Seamless Communication, Performance, And Centralized Control.
 
 
 Objectives:
+
 To Build A Network Architecture That Supports Flexibility, Automation, And High Availability — While Maintaining Security And Ease Of Management Across Departments.
 
 
